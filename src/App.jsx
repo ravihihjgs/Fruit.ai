@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link, Navigate } from 'react-router-dom';
 import LoginPage from './Component/LoginPage';
 import HomePage from './Component/HomePage';
-import Chat from './Component/chat';  // Ensure this is the right import
+import Chat from './Component/chat';  
 import PhoneNumber from './Layout/PhoneNumber';
 import OTPVerification from './Layout/OTPVerification';
 import BackupFound from './Layout/BackupFound';
