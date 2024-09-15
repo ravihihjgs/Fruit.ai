@@ -1,0 +1,57 @@
+.about-screen {
+    padding-top: 37px;
+    padding-right: 34px;
+  }
+  
+  .safe-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .ellipse-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 34px;
+  }
+  
+  .gradient-box {
+    margin-top: 31px;
+    padding: 31px 4px 1px;
+    border: 0.5px solid #f0f0f0; /* frost_50 color */
+    border-radius: 50px;
+    background: linear-gradient(90deg, rgba(224, 188, 243, 1) 0%, rgba(126, 231, 238, 1) 100%);
+  }
+  
+  .faq-title {
+    font-size: 24px; /* Based on your appTextStyles */
+    color: #F9EAD6; /* Daisy color */
+    text-align: left;
+  }
+  
+  .faq-item {
+    background-color: #E7EBF3; /* Rice_80 color */
+    border-radius: 25px;
+    margin: 10px 0;
+    padding: 116px 0 27px;
+  }
+  
+  .faq-text {
+    color: #FF0000; /* Red color */
+    font-size: 18px; /* Based on your appTextStyles */
+    text-align: left;
+  }
+  
+  .placeholder-box {
+    background-color: #E7EBF3; /* Rice_80 color */
+    border-radius: 25px;
+    width: 235px;
+    height: 160px;
+    margin-top: 8px;
+  }
+  
